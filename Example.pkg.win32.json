@@ -5,6 +5,7 @@
             "repository-URL":"" //This JSON would fail because of there being no git URL
             "Author":"TinyRobby",
             "Author-Email":"n/a",
+            "install":"run-exe"
             "Dependancys":[ {"name":"foo","installer-URL":"foo.bar/foo.exe"} ]
         }
     }  
